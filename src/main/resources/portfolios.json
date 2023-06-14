@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Portfolio A",
+    "portfolioId":  1,
+    "nav": 2000000,
+    "dailyReturn": 0.013,
+    "monthlyReturn": 0.091,
+    "yearlyReturn": 0.023,
+    "volatility": 0.051,
+    "holdingSymbols": [ "AAPL", "MSFT", "AMZN", "TSLA", "NVDA", "GOOG", "WMT"],
+    "holdingAmounts": [1008, 2304, 1078, 1167, 2461, 1504, 2222]
+  },
+  {
+    "name": "Portfolio B",
+    "portfolioId":  2,
+    "nav": 3000000,
+    "dailyReturn": 0.004,
+    "monthlyReturn": 0.061,
+    "yearlyReturn": 0.03,
+    "volatility": 0.032,
+    "holdingSymbols":  ["AMZN", "TSLA", "AAPL", "GOOG"],
+    "holdingAmounts": [5937, 2746, 3821, 4936]
+  },
+  {
+    "name": "Portfolio C",
+    "portfolioId":  3,
+    "nav": 4000000,
+    "dailyReturn": 0.041,
+    "monthlyReturn": 0.008,
+    "yearlyReturn": 0.154,
+    "volatility": 0.064,
+    "holdingSymbols":  ["NVDA", "GOOG"],
+    "holdingAmounts": [13958, 16749]
+  }
+]
